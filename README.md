@@ -3,7 +3,7 @@
 
 
 Team Members Name:
-Aashish Dhakal
+Ashish Dhakal
 Manisha Bhandari
 
 
